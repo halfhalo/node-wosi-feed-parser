@@ -1,0 +1,20 @@
+{
+  "author": "Patrick Roberts <patrick@silentbluesystems.com>",
+  "name": "wosi-feed-parser",
+  "description": "WebOS-Internals to JSON feed parser",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/halfhalo/node-wosi-feed-parser.git"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+	"request":"",
+	"underscore":""
+},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
